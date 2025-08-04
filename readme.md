@@ -1,2 +1,2 @@
 
-### "Powering Africa's next million sellers"
+## Powering Africa's next million sellers
