@@ -11,11 +11,11 @@ core features:
     -cart & checkout (
         add/remove from cart 
         persist cart in redis 
-        stripe checkout 
+        stripe checkout → handle payments, one-time or subscription
     )
     -orders (
         order creation after payment success 
-        buyer can see order history
+        buyer can see order history 
         seller can see orders for their products 
     )
     -search & filter (
@@ -45,28 +45,6 @@ why uCommerce over other platforms?
     -ai seller tools 
     -buyer rewards (uCoin; used for discounts)
     -hyperfast checkout 
-    -built-in logistics partnerships 
-
-
-frontend:
-    -sveltekit, tailwind, gsap
-
-backend:    
-    -node & express, 
-    -postgres & prisma, 
-    -redis, 
-    -jwt & bcrypt 
-
-notification: 
-    -pusher 
-    -sendgrid 
-    -web push api 
-
-payments:
-    -paystack 
-
-media storage: 
-    -cloudinary
-
+    -built-in logistics partnerships
 
 */
