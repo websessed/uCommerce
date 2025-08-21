@@ -133,9 +133,9 @@ team structure
 
 
 tech stack 
-    -frontend → sveltekit, typesense
-    -backend → node, ts, bullmq, python, git actions & docker 
-    -database → supabase, redis 
+    -frontend → sveltekit, ts, typesense
+    -backend → node, node, bullmq, python, git actions & docker 
+    -database → postgres, redis 
     -monitoring → sentry & Grafana
     -payment → paystack/flutterwave, mobile options 
 
