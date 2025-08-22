@@ -88,6 +88,9 @@ post mvp:
     -logistics partners 
     -BNPL (buy now pay later)
 
+tempting feature? 
+    -uCoin (stablecoin for the entire marketplace)
+
 
 
 why uCommerce over others (for sellers)?
@@ -124,6 +127,11 @@ core revenue streams
     -value added services (warehouse mgmt, logistics)
 
 
+
+what can be sold on uCommerce?
+    -digital products
+    -physical goods 
+    -services 
 
 team structure 
     -fullstack, product vision & orchestration (me) ~70%
